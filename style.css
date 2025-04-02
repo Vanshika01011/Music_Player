@@ -35,3 +35,16 @@ nav ul li{
     padding-right: 10px;
     margin-right: 20px;
 }
+.container{
+    height: 75vh;
+}
+.bottom{
+    position: sticky;
+    height: 100px;
+    background-color: black;
+    bottom: 0;
+}
+#myProgressBar{
+    width: 80vw;
+    align-items: center;
+}
